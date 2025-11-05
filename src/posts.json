@@ -1,0 +1,66 @@
+{
+  "1": {
+    "title": "Getting Started with FastAPI",
+    "content": "FastAPI is a modern, high-performance web framework for building APIs with Python. It\u2019s easy to learn and super fast to use."
+  },
+  "2": {
+    "title": "Why You Should Learn Docker",
+    "content": "Docker helps developers build, ship, and run applications inside containers. It\u2019s a must-have tool for modern DevOps practices."
+  },
+  "3": {
+    "title": "Understanding REST APIs",
+    "content": "REST APIs allow communication between client and server using standard HTTP methods. They\u2019re simple, scalable, and widely used."
+  },
+  "4": {
+    "title": "Top Python Libraries for Data Science",
+    "content": "NumPy, Pandas, Matplotlib, and Scikit-learn form the backbone of Python\u2019s data science ecosystem."
+  },
+  "5": {
+    "title": "Intro to Machine Learning",
+    "content": "Machine learning enables systems to learn from data and improve over time without explicit programming."
+  },
+  "6": {
+    "title": "Deep Learning with CNNs",
+    "content": "Convolutional Neural Networks are powerful models for computer vision tasks like image classification and object detection."
+  },
+  "7": {
+    "title": "Building APIs with FastAPI and SQLAlchemy",
+    "content": "Combine FastAPI with SQLAlchemy to build scalable and production-ready backend APIs."
+  },
+  "8": {
+    "title": "Getting Started with Cloud Computing",
+    "content": "Cloud platforms like AWS, Azure, and GCP enable scalable and cost-effective deployment of modern applications."
+  },
+  "9": {
+    "title": "Importance of Version Control",
+    "content": "Using Git allows you to track changes, collaborate effectively, and maintain project history safely."
+  },
+  "10": {
+    "title": "Deploying Your App on Render",
+    "content": "Render provides an easy platform to deploy your web apps, APIs, and databases with minimal setup."
+  },
+  "11": {
+    "title": "Understanding JWT Authentication",
+    "content": "JWTs are secure tokens that verify user identity and permissions in stateless authentication systems."
+  },
+  "12": {
+    "title": "Mastering Python Lists and Dictionaries",
+    "content": "Lists and dictionaries are the core data structures in Python \u2014 mastering them improves your coding efficiency."
+  },
+  "13": {
+    "title": "Working with Environment Variables",
+    "content": "Use .env files and libraries like python-dotenv to manage secrets and configurations securely."
+  },
+  "14": {
+    "title": "Tips for Writing Clean Python Code",
+    "content": "Follow PEP 8 guidelines, use meaningful variable names, and break large functions into smaller ones."
+  },
+  "15": {
+    "title": "Learning by Building Projects",
+    "content": "Practical learning through projects solidifies concepts and boosts your confidence as a developer."
+  },
+  "16": {
+    "title": "F1 cars",
+    "content": "This time Mclaren will win the world championship"
+  }
+}
